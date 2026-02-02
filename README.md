@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**minhduc304/minhduc304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeff, a software engineer based in Canada.
 
-Here are some ideas to get you started:
+I mostly work on data engineering and analytics — Python, SQL, dbt, Airflow, and building end-to-end pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also dabble in full-stack development with React, TypeScript, and FastAPI.
+
+This where I'll be uploading some projects I'm currently working on. Most projects I made has always been to make my life a bit easier or fun!
+
+---
+
+## Tools & Tech
+
+- Python, Rust, SQL, dbt, Airflow
+- React, TypeScript, Next.js
+- FastAPI, PostgreSQL, Redis
+- Docker, GCP Cloud Run, Sentry
+
+---
+
+## A Bit About Me
+
+- 🏀 Building an NBA analytics platform with ML predictions (Love sports and sports betting, however I do not condone it if you don't know what you are doing)
+- 📊 Track my portfolio with a finance dashboard that scrapes Reddit sentiment (Again, invest with care and proper information)
+- 🎵 Analyze my Spotify listening habits with a full ETL pipeline (Hmm...first project that might not bankrupt me)
+- 🔨 Jokes aside, I think coding for my own hobbies is just super satisfying so that's I like to build most. 
