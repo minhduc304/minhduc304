@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Jeff, a software engineer based in Canada.
+I'm Jeff, a data engineer based in Canada.
 
 I mostly work on data engineering and analytics — Python, SQL, dbt, Airflow, and building end-to-end pipelines.
 
