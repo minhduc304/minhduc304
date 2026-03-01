@@ -12,10 +12,11 @@ This where I'll be uploading some projects I'm currently working on. Most projec
 
 ## Tools & Tech
 
-- Python, Rust, SQL, dbt, Airflow
+- Python, Rust, SQL
 - React, TypeScript, Next.js
 - FastAPI, PostgreSQL, Redis
 - Docker, GCP Cloud Run, Sentry
+- Kafka, Airflow, Spark, dbt
 
 ---
 
