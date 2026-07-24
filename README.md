@@ -15,7 +15,7 @@ This where I'll be uploading some projects I'm currently working on. Most projec
 - Python, Rust, SQL
 - React, TypeScript, Next.js
 - FastAPI, PostgreSQL, Redis
-- Docker, GCP Cloud Run, Sentry
+- Docker, Kubernetes, AWS, GCP, Sentry, Databricks
 - Kafka, Airflow, Spark, dbt
 
 ---
