@@ -1,10 +1,10 @@
 # Hey there 👋
 
-I'm Jeff, a data engineer based in Canada.
+I'm Jeff, a software engineer based in Canada.
 
-I mostly work on data engineering and analytics — Python, SQL, dbt, Airflow, and building end-to-end pipelines.
+I mostly work on data platform and data engineering problems — Python, SQL, dbt, Airflow, MLOps and building end-to-end pipelines.
 
-I also dabble in full-stack development with React, TypeScript, and FastAPI.
+I also love full-stack development with React, TypeScript, and FastAPI.
 
 This where I'll be uploading some projects I'm currently working on. Most projects I made has always been to make my life a bit easier or fun!
 
